@@ -1,6 +1,7 @@
 alpine
 python:alpine3.19
-kasmweb/nginx:1.25.3
+kasmweb/nginx
 haroldli/xiaoya-tvbox
 chigusa/bililive-go
 whyour/qinglong
+linuxserver/code-server
