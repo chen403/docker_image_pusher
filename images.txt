@@ -5,3 +5,6 @@ haroldli/xiaoya-tvbox
 chigusa/bililive-go
 whyour/qinglong
 linuxserver/code-server
+xhofe/alist
+p3terx/aria2-pro
+openresty/openresty
