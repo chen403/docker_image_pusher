@@ -8,3 +8,4 @@ linuxserver/code-server
 xhofe/alist
 p3terx/aria2-pro
 openresty/openresty
+bililive/recorder
