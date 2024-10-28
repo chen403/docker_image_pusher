@@ -9,4 +9,6 @@ xhofe/alist
 p3terx/aria2-pro
 openresty/openresty
 bililive/recorder
-
+easytier/easytier
+yisier1/nps
+snowdreamtech/frps
