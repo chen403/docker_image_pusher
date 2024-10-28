@@ -12,3 +12,4 @@ bililive/recorder
 easytier/easytier
 yisier1/nps
 snowdreamtech/frps
+zhangsean/frp
