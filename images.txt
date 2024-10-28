@@ -1,5 +1,5 @@
 alpine
-python:alpine3.19
+python
 kasmweb/nginx
 haroldli/xiaoya-tvbox
 chigusa/bililive-go
