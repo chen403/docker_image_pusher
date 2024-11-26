@@ -13,3 +13,4 @@ easytier/easytier
 yisier1/nps
 snowdreamtech/frps
 zhangsean/frp
+uusec/firefly
