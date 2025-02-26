@@ -16,3 +16,4 @@ snowdreamtech/frps
 zhangsean/frp
 uusec/firefly
 soulteary/webhook
+pan93412/unblock-netease-music-enhanced
